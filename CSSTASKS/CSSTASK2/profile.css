@@ -1,0 +1,95 @@
+.content{
+	height:750px;
+	width:1300px;
+	background-color:lightgrey;
+	margin: 10px 10px 10px 10px;
+}
+.circle{
+	height:120px;
+	width:120px;
+	border-radius:50%;
+	border:5px solid black;
+}
+.c{
+	height:50px;
+	width:1200px;
+	background-color:white;
+	margin-left:10px;
+	margin-top:3px;
+}
+button{
+	background-color:blue;
+	color:white;
+	padding:5px;
+	margin-top:6px;
+}
+select{
+	background-color:red;
+	color:white;
+	padding:5px;
+	margin-top:6px;
+}
+.a{
+	height:550px;
+	width:400px;
+	background-color:white;
+	margin: 50px 50px 50px 50px;
+	float:left;
+}
+.b{
+	height:320px;
+	width:750px;
+	background-color:white;
+	margin:10px 10px 20px 10px;
+	float:right;
+}
+hr{
+	margin-left:20px;
+	margin-right:20px;
+}
+i{
+	font-size:20px;
+}
+.s{
+	font-size:15px;
+}
+.x{
+	margin-top:10px;
+}
+label{
+	margin-left:10px;
+}
+h2{
+	margin-left:20px;
+}
+p{
+	margin-left:20px;
+}
+.y{
+	height:2px;
+	width:550px;
+	background-color:blue;
+}
+.d{
+	height:2px;
+	width:500px;
+	background-color:orange;
+}
+.e{
+	height:2px;
+	width:630px;
+	background-color:green;
+}
+.f{
+	height:2px;
+	width:450px;
+	background-color:yellow;
+}
+.g{
+	height:2px;
+	width:480px;
+	background-color:purple;
+}
+span{
+	font-size:20px;
+}
